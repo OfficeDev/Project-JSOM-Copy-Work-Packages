@@ -3,7 +3,7 @@
 <App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
      Name="Project-JSOM-Copy-Work-Packages"
      ProductID="{1afa8f23-748f-48dc-8abc-8ee2aab9624b}"
-     Version="1.0.0.1"
+     Version="1.0.0.0"
      SharePointMinVersion="16.0.0.0"
 >
   <Properties>
