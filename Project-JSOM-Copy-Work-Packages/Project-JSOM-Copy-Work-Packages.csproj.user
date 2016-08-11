@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>https://contoso.sharepoint.com/sites/pwa/</SharePointSiteUrl>
+    <OfficeAndSharePointStartAction>Microsoft Edge</OfficeAndSharePointStartAction>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2016-08-11T20:50:15.0910689Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>bf4afb33-f0d0-4d3f-8316-d16838c814b2</AppInstanceId>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
