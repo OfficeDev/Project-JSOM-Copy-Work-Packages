@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license. -->
+<!-- See LICENSE in the project root for license information -->
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

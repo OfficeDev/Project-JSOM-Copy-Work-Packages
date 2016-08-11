@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Project-JSOM-Copy-Work-Packages/v14
+/Copy-Work-Packages/bin/Debug
+/Copy-Work-Packages/obj/Debug
+/Copy-Work-Packages/pkg/Debug/CopyWorkPackages
+/Copy-Work-Packages/pkgobj/Debug
+/Copy-Work-Packages/bin/Debug
