@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: 'Project add-in: JSOM Copy Work Packages'
+  path: ''
+  description: The Project JSOM Copy Work Packages sample code demonstrates how to query for projects and tasks and create tasks using JSOM (CSOM).
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: NadinMerali
+  platforms: []
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Project
+    scenarios: []
