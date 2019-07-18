@@ -1,10 +1,10 @@
 ---
 topic: sample
 products:
-- Project
-- Office 365
+- office-project
+- office-365
 languages:
-- JavaScript
+- javascript
 extensions:
   contentType: samples
   createdDate: 8/11/2016 2:22:22 PM
