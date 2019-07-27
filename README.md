@@ -5,10 +5,13 @@ products:
 - office-365
 languages:
 - javascript
+description: "How to query for projects and tasks and create tasks using JSOM (CSOM)."
+urlFragment: project-jsom
 extensions:
   contentType: samples
-  createdDate: 8/11/2016 2:22:22 PM
+  createdDate: "8/11/2016 2:22:22 PM"
 ---
+
 # Project JSOM Copy Work Packages
 
 The Project JSOM Copy Work Packages sample code demonstrates how to query for projects and tasks and create tasks using JSOM (CSOM).  
