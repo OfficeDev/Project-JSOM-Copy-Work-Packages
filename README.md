@@ -21,25 +21,25 @@ I have a common set of well-defined tasks (work packages) that I would like to r
 
 ## Setup 
 
-1.	Create one or more projects that have a set of tasks that you would like to re-use
+1.	Create one or more projects that have a set of tasks that you would like to re-use.
 2.	Create a summary task to group the set and give it a meaningful description.  
-3.	Publish the project
+3.	Publish the project.
 
-### Using App
+## Using the app
 
-1.	Choose the (source) project containing the work package you are looking for
-2.	Choose the work package (summary task)
-3.	Choose the (target) project you want to copy the work package to
-4.	Choose a parent task where the work package will be copied to
-5.	Click Submit.
+1.	Choose the (source) project containing the work package you are looking for.
+2.	Choose the work package (summary task).
+3.	Choose the (target) project you want to copy the work package to.
+4.	Choose a parent task where the work package will be copied to.
+5.	Click **Submit**.
 
 
-### Prerequisites/Deployment
+## Prerequisites/Deployment
 To use this code sample, you need the following:
 * Project Server 2013 or Project Online (with subscription)
 * Visual Studio 2013 or later 
 * App for SharePoint project type
-* Update the project site Url (Project Property) to match the site you are testing against.
+* Update the project site Url (Project Property) to match the site you are testing against
 * If you are not using a Developer site collection, you may need to enable [Side Loading] (https://blogs.msdn.microsoft.com/officeapps/2013/12/10/enable-app-sideloading-in-your-non-developer-site-collection/)
 
 
